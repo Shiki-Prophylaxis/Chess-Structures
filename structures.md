@@ -1,1 +1,21 @@
-#
+## Structures
+
+- [QIP](qip-strc.md)
+- [Hanging Pawns](hanging-pawns-strc.md)
+- [Scandinavian](scandinavian-strc.md)
+- [Slav](slav-strc.md)
+- [Carlsbad](carlsbad-strc.md)
+- [Stonewall](stonewall-strc.md)
+- [Grünfeld](grünfeld-strc.md)
+- [Sicilian e4xd5](Sicilian-ed-strc.md)
+- [Najdorf](najdorf-strc.md)
+- [Hedgehog](hedgehog-strc.md)
+- [Maroczy](maroczy-strc.md)
+- [Asymmetric Benoni](asym-benoni-strc.md)
+- [Symmetric Benoni](sym-benoni-strc.md)
+- [Closed KID](closed-kid-strc.md)
+- [Open KID](open-kid-strc.md)
+- [French e5xf6](french-e5xf6-strc.md)
+- [French c5xd4](french-c5xd4-strc.md)
+- [Fully Closed French](closed-french-strc.md)
+- 
