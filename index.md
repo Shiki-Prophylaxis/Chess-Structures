@@ -6,4 +6,5 @@
 
 - [Openings](openings.md)
 - [Endgames](endgames.md)
+- [Structures](structures.md)
 - [Games](games.md)
