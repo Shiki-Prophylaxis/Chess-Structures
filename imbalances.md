@@ -14,4 +14,4 @@
 - [【ルック】vs【ナイト】](imbalances-rook-vs-knight.md)
 - [【ルック】vs【ビショップ&ナイト】](imbalances-rook-vs-bishop&knight.md)
 - [【クイーン】vs【２ルック】](imlbanaces-queen-vs-2-rooks.md)
-- [【クイーン】vs【3ピース】](imbalances-queen-vs-3-pieces.md)
+- [【クイーン】vs【３ピース】](imbalances-queen-vs-3-pieces.md)
