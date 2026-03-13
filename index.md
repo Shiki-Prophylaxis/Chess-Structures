@@ -4,7 +4,6 @@
 
 ## Contents
 
-- [Openings](openings.md)
-- [Endgames](endgames.md)
-- [Structures](structures.md)
-- [Games](games.md)
+- [オープニング](openings.md)
+- [ピースの使い方（一般）](endgames.md)
+- [ポーン構造ごとの戦略](structures.md)
