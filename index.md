@@ -6,4 +6,5 @@
 
 - [オープニング](openings.md)
 - [ピースの使い方（一般）](pieces.md)
+- [インバランス](invalances.md)
 - [ポーン構造ごとの戦略](structures.md)
